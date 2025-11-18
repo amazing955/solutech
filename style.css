@@ -74,6 +74,7 @@ header nav ul li a:hover {
   color: #1E90FF;
   padding: 12px 25px;
   margin: 10px;
+  margin-top: 10px;
   border-radius: 5px;
   text-decoration: none;
   transition: 0.3s;
